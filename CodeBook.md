@@ -5,12 +5,12 @@ dplyr
 
 # Variables
 ## Data Variables (Test and Training Data)
--Data_Training_X
--Data_Training_Y
--Data_Training_Subject
--Data_Test_X
--Data_Test_Y
--Data_Test_Subject
+Data_Training_X
+Data_Training_Y
+Data_Training_Subject
+Data_Test_X
+Data_Test_Y
+Data_Test_Subject
 
 ## Merging Variables
 Data_Merge_X_Training_Test
